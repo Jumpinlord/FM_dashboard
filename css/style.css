@@ -215,5 +215,11 @@ body {
   .tracking-card__header {
     margin-bottom: 0.75rem;
   }
-
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
 }
